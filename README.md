@@ -84,7 +84,7 @@ Just run without arguments and answer the prompts:
 python archive_cracker.py
 ```
 
-### ⚡ Direct Command-Line Execution
+### 💻 Direct Command-Line Execution
 ```bash
 python archive_cracker.py locked.zip
 python archive_cracker.py locked.rar -x
@@ -111,7 +111,7 @@ python archive_cracker.py locked.zip -b -m 5 -c luds
 
 ---
 
-## ⚡ Speed & Benchmarks
+## ⏱️ Speed & Benchmarks
 
 *Rough benchmark numbers on an average laptop (two cores):*
 
