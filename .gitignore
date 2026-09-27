@@ -1,0 +1,19 @@
+# recovery artifacts
+password_results.txt
+*_extracted/
+*.zip
+*.rar
+*.7z
+!tests/*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
